@@ -1,0 +1,23 @@
+Inleiding
+
+Het 100 miljard dollar dure internationale ruimtestation ISS is het grootste en meest complexe ruimtevaart- 
+project ooit. Nadat de eerste module voor dit ruimtestation in november 1998 door Rusland in de ruimte werd
+gebracht , werd het ISS steeds groter, complexer en vaker bemand. Vandaag de dag wordt het ISS permanent 
+bemand door minstens drie ruimtevaarders en is het een voorbeeld van internationale samenwerking.
+
+- Dit Python project moet op een kaart laten zien waar het International Spacestation (ISS) zich in real-time 
+   bevindt.
+
+-  Er moet gebruik worden gemaakt van NASA API's waarbij in het JSON-formaat o.a. de namen van de huidige
+   ISS-bemanning moet worden weergegeven, maar ook de exacte locatie van het ruimtestation.
+   (Zie eerst bijlage voor uitleg API en JSON)
+
+- Je moet ook laten zien wanneer binnenkort het ISS weer zichtbaar zal zijn in Groningen (of je eigen woonplaats
+   natuurlijk, dan kun je het op een heldere avond testen)
+
+- Je mag het programma helemaal naar eigen inzicht opzetten.
+
+- In deze opdracht mag je een uitgebreid PVA even achterwege laten, maar moet je wel vast gaan leggen welke
+   stappen je gaat nemen/hebt genomen om tot jouw "ISS appje" te kunnen komen.
+
+- Je mag ook gebruik maken van het uitgebreide voorbeeld welke je bij deze opdracht hebt gekregen. 
